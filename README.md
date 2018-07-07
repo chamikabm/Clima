@@ -35,5 +35,3 @@ end
 		</dict>
 	</dict>
 ```
-
-# Clima
